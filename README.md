@@ -10,7 +10,8 @@
 * Simulación de Pruebas
 * Uso de Herramientas de Testing
 
-### Documentación de ejemplo
-* [Requerimientos](https://docs.google.com/document/d/1W36qApLeYfQKdDUF_EDngMTbjwbZi8E1Qouwo0s4tcQ/edit?usp=drive_link)
-* [Escenarios de prueba](https://docs.google.com/document/d/1pQ5H7XP2tulRQymF_lMyBnqClbuS5pQ4RFmkBKLeaeQ/edit?usp=drive_link)
-* [Casos de prueba](https://docs.google.com/spreadsheets/d/1sWZShg05kF0lBJtJHWiqcpW-gwxhf82C/edit?usp=drive_link&ouid=115103530444066742360&rtpof=true&sd=true)
+### Documentación de muestra
+* Cinemark Hoyts
+  * [Requerimientos](https://docs.google.com/document/d/1W36qApLeYfQKdDUF_EDngMTbjwbZi8E1Qouwo0s4tcQ/edit?usp=drive_link)
+  * [Escenarios de prueba](https://docs.google.com/document/d/1pQ5H7XP2tulRQymF_lMyBnqClbuS5pQ4RFmkBKLeaeQ/edit?usp=drive_link)
+  * [Casos de prueba](https://docs.google.com/spreadsheets/d/1sWZShg05kF0lBJtJHWiqcpW-gwxhf82C/edit?usp=drive_link&ouid=115103530444066742360&rtpof=true&sd=true)
